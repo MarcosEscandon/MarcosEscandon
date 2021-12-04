@@ -2,7 +2,8 @@
 - 👀 I’m interested in Music/ Gaming
 - 🌱 I’m currently learning Web Develop
 - 💞️ I’m looking to collaborate on Web Develop
-- 📫 How to reach me marcos.escandon@gmail.com
+- 📫 How to reach me marcos.escandon@gmail.com or
+www.linkedin.com/in/marcos-escandon-60b80289
 
 <!---
 MarcosEscandon/MarcosEscandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
