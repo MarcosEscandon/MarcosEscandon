@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcosEscandon
 - 👀 I’m interested in Music/ Gaming
-- 🌱 I’m currently learning Full-stack Develop
-- 💞️ I’m looking to collaborate on Full-stack Develop
+- 🌱 I’m currently learning Full-stack Development
+- 💞️ I’m looking to collaborate on Full-stack Development
 - 📫 How to reach me marcos.escandon@gmail.com or
 www.linkedin.com/in/marcos-escandon-60b80289
 
