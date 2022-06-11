@@ -2,6 +2,9 @@
 - 👀 I’m interested in Music/ Gaming
 - 🌱 I’m currently learning Full-stack Development
 - 💞️ I’m looking to collaborate on Full-stack Development
+
+- 🕹  I'm currntly working as a Full-stack Developer in Welivery.
+
 - 📫 How to reach me marcos.escandon@gmail.com or
 www.linkedin.com/in/marcos-escandon-60b80289
 
