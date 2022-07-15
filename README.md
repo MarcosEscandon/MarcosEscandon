@@ -3,7 +3,8 @@
 
 - 🕹  I'm currently working as a Full-stack Developer in Welivery.
 
-- 📫 How to reach me marcos.escandon@gmail.com 
+- 📫 How to reach me:
+- marcos.escandon@gmail.com 
   or
 - www.linkedin.com/in/marcos-escandon-60b80289
 
