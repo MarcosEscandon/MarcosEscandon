@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosEscandon
-- 👀 I’m interested in Music/ Gaming
+- 👀 I’m interested in Music/ Gaming/ Sports
 - 🌱 I’m currently learning Full-stack Development
 - 💞️ I’m looking to collaborate on Full-stack Development
 
