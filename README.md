@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
-  or
+- or
 - www.linkedin.com/in/marcos-escandon-60b80289
 
 <!---
