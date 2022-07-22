@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MarcosEscandon
 - 👀 I’m interested in Music/ Gaming/ Sports
 
-- 🕹  I'm currently working as a Full-stack Developer in Welivery.
+- 🕹  I'm worked as a Full-stack Developer in Welivery.
+- 🕹  I'm currently working as a QA Manual-Automation in Temperies.
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
