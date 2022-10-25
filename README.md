@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music/ Gaming/ Sports
 
 - 🕹  I worked as a Full-stack Developer in Welivery.
-- 🕹  I'm currently working as a QA Manual-Automation in Temperies.
+- 🕹  I'm currently working as a QA Manual-Automation & DevOps in Temperies.
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
