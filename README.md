@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarcosEscandon
 - 👀 I’m interested in Music/ Gaming/ Sports
 
-- 🕹  I worked as a Full-stack Developer in Welivery (Logistics - ARG).
-- 🕹  I'm currently working as a QA Manual-Automation & DevOps in Temperies (LinkLabs IOT - USA).
+- 🕹  I worked as a Full-stack Developer in Welivery (Logistics - ARG). { 02/2022 - 08/2022 }
+- 🕹  I'm currently working as a QA Manual-Automation & DevOps in Temperies (LinkLabs IOT - USA).  { 07/2022 }
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
