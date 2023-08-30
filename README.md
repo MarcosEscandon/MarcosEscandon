@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosEscandon
-- 👀 I’m interested in Music/ Gaming/ Sports
+- 👀 I’m interested in Music/ Gaming/ Sports/ Nature
 
 - 🕹  I worked as a Full-stack Developer in Welivery (Logistics - ARG). { 02/2022 - 08/2022 }
 - 🕹  I worked as a QA Manual in Teamknowlogy (Data - MEX). { 05/2023 - 07/2023 }
