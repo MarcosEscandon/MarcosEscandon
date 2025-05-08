@@ -4,7 +4,8 @@
 - 🕹  I worked as a Full-stack Developer in Welivery (Logistics - ARG). { 02/2022 - 07/2022 }
 - 🕹  I worked as a QA Manual in Teamknowlogy (Data - MEX). { 05/2023 - 07/2023 }
 - 🕹  I'm currently working as a Full-stack Developer in Accenture (Services - ARG). { 12/2022 }
-- 🕹  I'm currently working as a QA Manual-Automation Engineer in Temperies (LinkLabs IOT - USA).  { 07/2022 }
+- 🕹  I worked as a QA Manual-Automation Engineer in Temperies (LinkLabs IOT - USA).  { 07/2022 - 05/2024 }
+- 🕹  I'm currently working as a QA Manual-Automation Engineer in LinkLabs (IOT - USA).  { 05/2024 }
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
