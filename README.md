@@ -6,7 +6,7 @@
 - 🕹  I worked working as a Full-stack Developer in Accenture (Services - ARG). { 12/2022 - 12/2025 }
 - 🕹  I worked as a QA Manual-Automation Engineer in Temperies (LinkLabs IOT - USA).  { 07/2022 - 05/2024 }
 - 🕹  I worked as a QA Manual-Automation Engineer in LinkLabs (IOT - USA).  { 05/2024 - 07/2026 }
-- 🕹  I'm currently working as a QA Automation Engineer in Geotab (IOT - USA).  { 07/2026 }
+- 🕹  I'm currently working as a QA Automation Engineer in Geotab (IOT - Canada).  { 07/2026 }
 
 - 📫 How to reach me:
 - marcos.escandon@gmail.com 
